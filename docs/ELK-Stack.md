@@ -96,4 +96,4 @@ This guide explains how to configure a ELK stack, which is one of the popular SI
 8. Conclusion
 
 - In this lab we have simulated how the real SIEM works and how agent will forward the necessary telemetry to the SIEM dashboard and visualize in real time.
-  [Brute Force Attack Visualization](../Video/Brute%20Force%20Attack%20Simulation.mkv)
+  [Brute Force Attack Visualization](https://www.youtube.com/watch?v=Ub47dYSTcJ0)
