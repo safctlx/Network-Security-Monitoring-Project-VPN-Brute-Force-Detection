@@ -2,6 +2,8 @@ WireGuard VPN Configuration Guide
 
 This guide explains how to configure a WireGuard VPN on both server and client.
 
+- ![07 - VPN Client Server Communication](../Screenshots/07-vpn-client-server.png)
+
 1. Prerequisites
 
 - A linux server (Headless)
