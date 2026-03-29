@@ -9,6 +9,7 @@
 - [Technology Used](#technology-used)
 - [Implementation Steps](#implementation-steps)
   - [VPN Setup](#vpn-setup)
+    - [Configuration Guide](docs/WireGuardVPN.md)
   - [Log Collection and Forwarding](#log-collection-and-forwarding)
   - [Attack Simulation](#attack-simulation)
   - [Visualization and Detection](#visualization-and-detection)
