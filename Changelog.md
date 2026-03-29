@@ -12,3 +12,5 @@ All notable changes to this project are documented here.
 
 - VPN configuration feature added.
 - Screenshot and gif added.
+- ELKStack Configuration added.
+- Simulate Brute Force Attack

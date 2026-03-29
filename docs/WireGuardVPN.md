@@ -10,6 +10,7 @@ This guide explains how to configure a WireGuard VPN on both server and client.
 - A client device (Kali Linux in our case)
 - Basic Networking knowledge
 - Root or sudo access
+- Wireshark
 
 2. Installation
 
@@ -20,6 +21,7 @@ This guide explains how to configure a WireGuard VPN on both server and client.
 - Verify installation
 - <pre>wg version</pre>
 - ![04 - Wg Version Check](../Screenshots/04-wg-version-check.png)
+- In the logstash conf file, this is the simple logstash pipeline. It defines where logs come from (input) which is filebeat in our case, filebeat config sends log to the 192.168.202.174:5044. This input receives those logs. Output section shows, logstash sends data to Elasticsearch which is running in http://localhost:9200 and last is the index naming as index => "filebeat-%{+YYYY.MM.dd}"
 
 3. IP Forwarding
 
