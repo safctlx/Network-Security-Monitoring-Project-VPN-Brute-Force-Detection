@@ -46,6 +46,8 @@ Before attempting this project, it is recommended to be familiar with:
 
 ## Lab Architecture
 
+![Lab Architecture](Screenshots/00-Lab_setup.png)
+
 This lab consists of three virtual machines. The IP addresses used here are examples and may vary in different setups:
 
 1. **Kali Linux (VPN Client and Attacker) → IP: 192.168.201.17**
